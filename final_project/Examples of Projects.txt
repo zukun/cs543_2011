@@ -1,0 +1,25 @@
+Projects from last year
+
+1. Integrate depth camera with color camera; fill in missing depth information
+
+2. 3D Reconstruction from two views + augmented reality.  Get 3D model of scene and insert synthetic object.
+
+3. Detect edges in hallway and use edge detections to choose robot path.
+
+4. 3D reconstruction from multiple views
+
+5. Text recognition in natural images
+
+6. Survey object recognition methods from VOC and implement one
+
+7. Track gazes using stereo camera, plus third camera to watch eyes
+
+8. Calibration of stereo cameras to get 3D view, working with Berkeley Tele-immersion system.
+   
+9. Automatically detect shadows in images and remove them.
+
+10. Single image albedo and shading decomposition
+
+11. Register microscopic and spectroscopic images
+   
+12. Stereo estimation from pair of images
